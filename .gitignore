@@ -1,0 +1,6 @@
+#Ignore executables
+*.exe
+genereate-customers
+hotel
+temp*
+tmp2*
